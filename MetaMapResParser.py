@@ -1,6 +1,4 @@
 # *_* coding: utf-8 *_*
-# @Time     : 11/26/2018 11:05 AM
-# @Author   : zong hui
 
 # parse the result of metamap.
 # convert to a list. contained Phrase, Metamap_CUI, Semantic_Type, MetaMap_Word , Raw_Word

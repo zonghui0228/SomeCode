@@ -13,7 +13,7 @@ import csv
 def single_parse(infile, semantic_type = None):
     """
     Description: parse single MetaMap results file.
-    Usage: t = single_parse("C:\\zonghui\\Gene-CellFunctionData\\new_metamap\\LIHC_metamap_gidb\\23183623.txt")
+    Usage: t = single_parse("./example_data/24157031.txt")
     :param infile: the result file by tools-MetaMap.
     :param semantic_type: the concepts you want to extract.
     :return: concept terms
@@ -60,7 +60,7 @@ def single_parse(infile, semantic_type = None):
 def batch_parse(infolder, semantic_type = None):
     """
     Description: parse batch file
-    Usage: batch_parse("C:\\zonghui\\Gene-CellFunctionData\\new_metamap\\LIHC_metamap_gidb")
+    Usage: batch_parse("./example_data/")
     :param infolder:
     :param semantic_type:
     :return:

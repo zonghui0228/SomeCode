@@ -1,0 +1,429 @@
+Processing 24157031.ti.1: Long-term outcome of liver transplantation for combined hepatocellular carcinoma        and cholangiocarcinoma. 
+
+Phrase: Long-term outcome of liver transplantation
+Meta Mapping (864):
+   623   C0443252:Long Term (Long-term) [Temporal Concept]
+   753   C1274040:Outcome (Result) [Functional Concept]
+   654   C0023911:Transplantation of Liver (Transplantation of liver) [Therapeutic or Preventive Procedure]
+
+Phrase: for combined hepatocellular carcinoma
+Meta Mapping (901):
+   660   C0205195:Combined [Qualitative Concept]
+   901   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: cholangiocarcinoma.
+Meta Mapping (1000):
+  1000   C0206698:Cholangiocarcinoma [Neoplastic Process]
+Processing 24157031.ab.1: PURPOSE: Combined hepatocellular carcinoma (HCC) and cholangiocellular carcinoma        (CCC) is a rare pair of intrahepatic malignancies. 
+
+Phrase: PURPOSE
+Meta Mapping (1000):
+  1000   C1285529:Purpose [Functional Concept]
+
+Phrase: :
+
+Phrase: Combined hepatocellular carcinoma
+Meta Mapping (901):
+   660   C0205195:Combined [Qualitative Concept]
+   901   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: cholangiocellular carcinoma
+Meta Mapping (1000):
+  1000   C0206698:Cholangiocellular Carcinoma (Cholangiocarcinoma) [Neoplastic Process]
+
+Phrase: is
+
+Phrase: a rare pair of intrahepatic malignancies.
+Meta Mapping (691):
+   586   C0522498:Rare [Qualitative Concept]
+   753   C1709450:Pair [Qualitative Concept]
+   586   C1512948:Intrahepatic (intrahepatic) [Spatial Concept]
+   586   C0006826:MALIGNANCIES (Malignant Neoplasms) [Neoplastic Process]
+Processing 24157031.ab.2: Differential diagnosis among       combined HCC-CCC, HCC, or CCC can be difficult; thus malignancies other than       ordinary HCC are occasionally encountered unexpectedly in explanted liver       specimens. 
+
+Phrase: Differential diagnosis among       combined HCC-CCC,
+Meta Mapping (755):
+   770   C0011906:Diagnosis, Differential (Differential Diagnosis) [Diagnostic Procedure]
+   578   C0205195:Combined [Qualitative Concept]
+   604   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+   604   C0206698:Cholangiocellular Carcinoma (Cholangiocarcinoma) [Neoplastic Process]
+
+Phrase: HCC,
+Meta Mapping (1000):
+  1000   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+
+Phrase: or
+
+Phrase: CCC
+Meta Mapping (1000):
+  1000   C0206698:Cholangiocellular Carcinoma (Cholangiocarcinoma) [Neoplastic Process]
+
+Phrase: can
+
+Phrase: be
+
+Phrase: difficult
+Meta Mapping (1000):
+  1000   C0332218:Difficult (Difficult (qualifier value)) [Qualitative Concept]
+
+Phrase: ; thus malignancies other than       ordinary HCC
+Meta Mapping (706):
+   774   C0345904:Hepatocellular malignancies (Malignant neoplasm of liver) [Neoplastic Process]
+   581   C0007097:CARCINOMA (Carcinoma) [Neoplastic Process]
+Meta Mapping (706):
+   748   C0006826:MALIGNANCIES (Malignant Neoplasms) [Neoplastic Process]
+   612   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+
+Phrase: are
+
+Phrase: occasionally
+Meta Mapping (1000):
+  1000   C1998882:Occasionally (Sometimes) [Temporal Concept]
+
+Phrase: encountered
+Meta Mapping (966):
+   966   C0545082:Encounter (Visit) [Behavior]
+
+Phrase: unexpectedly in explanted liver       specimens.
+Meta Mapping (714):
+   760   C3830290:EXPLANTED (Explanted Medical Device) [Finding]
+   760   C0736268:LIVER (Liver parenchyma) [Body Part, Organ, or Organ Component]
+   760   C0370003:specimens (Specimen) [Substance]
+Processing 24157031.ab.3: The present study analyzed the long-term outcomes of liver       transplantation (OLT) among patients with HCC-CCC. 
+
+Phrase: The present study
+Meta Mapping (888):
+   861   C0150312:Present [Quantitative Concept]
+   861   C2603343:Study [Research Activity]
+
+Phrase: analyzed
+Meta Mapping (1000):
+  1000   C0936012:Analyzed (Analysis) [Research Activity]
+
+Phrase: the long-term outcomes of liver       transplantation
+Meta Mapping (804):
+   612   C0443252:Long Term (Long-term) [Temporal Concept]
+   714   C1274040:Outcome (Result) [Functional Concept]
+   638   C0023911:Transplantation of Liver (Transplantation of liver) [Therapeutic or Preventive Procedure]
+
+Phrase: among patients with HCC-CCC.
+Meta Mapping (737):
+   748   C0030705:Patients [Patient or Disabled Group]
+   612   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+   612   C0206698:Cholangiocellular Carcinoma (Cholangiocarcinoma) [Neoplastic Process]
+Processing 24157031.ab.4: METHODS: Between January 1999        and December 2009, we performed 2137 adult OLT at our institution including 15       cases of pathologically confirmed HCC-CCC, who all underwent OLT with a       pretransplant diagnosis of HCC. 
+
+Phrase: METHODS
+Meta Mapping (1000):
+  1000   C0025664:METHODS (Methods aspects) [Intellectual Product]
+
+Phrase: :
+
+Phrase: Between January 1999
+Meta Mapping (861):
+   861   C3829466:January [Qualitative Concept]
+
+Phrase: and
+
+Phrase: December 2009,
+Meta Mapping (861):
+   861   C3830550:December [Qualitative Concept]
+
+Phrase: we
+
+Phrase: performed
+Meta Mapping (1000):
+  1000   C0884358:Performed [Functional Concept]
+
+Phrase: 2137 adult OLT
+Meta Mapping (807):
+   586   C0001675:ADULT (Adult) [Age Group]
+   719   C1274040:Outcome (Result) [Functional Concept]
+   654   C0023911:Transplantation of Liver (Transplantation of liver) [Therapeutic or Preventive Procedure]
+
+Phrase: at our institution
+Meta Mapping (1000):
+  1000   C0018704:Institution (Health care facility) [Health Care Related Organization,Manufactured Object]
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: 15       cases of
+Meta Mapping (790):
+   790   C1533148:Cases (Case unit dose) [Quantitative Concept]
+
+Phrase: pathologically
+
+Phrase: confirmed
+Meta Mapping (1000):
+  1000   C0750484:Confirmed (Confirmation) [Idea or Concept]
+
+Phrase: HCC-CCC,
+Meta Mapping (888):
+   694   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+   861   C0206698:Cholangiocellular Carcinoma (Cholangiocarcinoma) [Neoplastic Process]
+
+Phrase: who
+
+Phrase: all
+
+Phrase: underwent
+
+Phrase: OLT
+Meta Mapping (908):
+   737   C1274040:Outcome (Result) [Functional Concept]
+   715   C0023911:Transplantation of Liver (Transplantation of liver) [Therapeutic or Preventive Procedure]
+
+Phrase: with a       pretransplant diagnosis of HCC.
+Meta Mapping (706):
+   748   C1704656:DIAGNOSIS (Diagnosis Study) [Research Activity]
+   612   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+Processing 24157031.ab.5: We reviewed retrospectively the medical records       of these 15 patients. 
+
+Phrase: We
+
+Phrase: reviewed
+Meta Mapping (1000):
+  1000   C1709940:Reviewed [Qualitative Concept]
+
+Phrase: retrospectively
+
+Phrase: the medical records       of these 15 patients.
+Meta Mapping (706):
+   778   C0551625:Medical records (Medical records:Finding:-:^Patient:Document) [Clinical Attribute]
+   581   C0030705:Patients [Patient or Disabled Group]
+Meta Mapping (706):
+   774   C0870869:medical patients [Patient or Disabled Group]
+   748   C0034869:Records [Intellectual Product]
+Processing 24157031.ab.6: RESULTS: Their mean age was 58.9 +/- 7.2 years. 
+
+Phrase: RESULTS
+Meta Mapping (966):
+   966   C1274040:Result [Functional Concept]
+
+Phrase: :
+
+Phrase: Their mean age
+Meta Mapping (888):
+   694   C2347634:Mean (Population Mean) [Quantitative Concept]
+   861   C0001779:AGE (Age) [Organism Attribute]
+
+Phrase: was
+
+Phrase: 58.9 +/- 7.2 years.
+Meta Mapping (804):
+   804   C0439234:YEARS (year) [Temporal Concept]
+Processing 24157031.ab.7: The median        preoperative alpha-fetoprotein level was 32.6 ng/mL. 
+
+Phrase: The median        preoperative alpha-fetoprotein level
+Meta Mapping (875):
+   637   C0876920:Median (Median Statistical Measurement) [Quantitative Concept]
+   637   C0445204:Preoperative [Temporal Concept]
+   884   C0428521:Alpha-fetoprotein level (Alpha-fetoprotein level - finding) [Laboratory or Test Result]
+
+Phrase: was
+
+Phrase: 32.6 ng/mL.
+Meta Mapping (861):
+   861   C0439275:ng/mL (Microgram per Liter) [Quantitative Concept]
+Processing 24157031.ab.8: Fourteen patients underwent        living donor and one deceased donor OLT. 
+
+Phrase: Fourteen patients
+Meta Mapping (888):
+   694   C3715152:Fourteen [Quantitative Concept]
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: underwent
+
+Phrase: living donor
+Meta Mapping (1000):
+  1000   C0348050:Living Donor (Living Donors) [Population Group]
+
+Phrase: and
+
+Phrase: one deceased donor OLT.
+Meta Mapping (831):
+   581   C0205447:ONE (One) [Quantitative Concept]
+   581   C0011065:Deceased (Cessation of life) [Organism Function]
+   581   C1527169:Donor NOS (Encounter due to being a donor) [Finding]
+   714   C1274040:Outcome (Result) [Functional Concept]
+   638   C0023911:Transplantation of Liver (Transplantation of liver) [Therapeutic or Preventive Procedure]
+Processing 24157031.ab.9: The Milan criteria were met in 12 cases. 
+
+Phrase: The Milan criteria
+Meta Mapping (861):
+   861   C0243161:Criteria (criteria) [Intellectual Product]
+
+Phrase: were
+
+Phrase: met in 12 cases.
+Meta Mapping (708):
+   770   C0268621:MET (Hepatic methionine adenosyltransferase deficiency) [Disease or Syndrome]
+   770   C1533148:Cases (Case unit dose) [Quantitative Concept]
+Processing 24157031.ab.10: A single tumor was identified in 8 and multiple lesions in 7 patients. 
+
+Phrase: A single tumor
+Meta Mapping (1000):
+  1000   C1298180:Single tumour (Single tumor) [Neoplastic Process]
+
+Phrase: was
+
+Phrase: identified in 8
+Meta Mapping (790):
+   790   C0205396:Identified [Qualitative Concept]
+
+Phrase: and
+
+Phrase: multiple lesions in 7 patients.
+Meta Mapping (745):
+   806   C0577305:Multiple lesions [Finding]
+   593   C0030705:Patients [Patient or Disabled Group]
+Processing 24157031.ab.11: The       maximal tumor diameter was 2.9 +/- 1.7 cm. 
+
+Phrase: The       maximal tumor diameter
+Meta Mapping (851):
+   660   C0806909:Maximal (Maximum) [Quantitative Concept]
+   660   C0027651:Tumour NOS (Neoplasms) [Neoplastic Process]
+   827   C1301886:DIAMETER (Diameter (qualifier value)) [Quantitative Concept]
+
+Phrase: was
+
+Phrase: 2.9 +/- 1.7 cm.
+Processing 24157031.ab.12: Seven patients experienced tumor       recurrences: including 6 within the first 12 months. 
+
+Phrase: Seven patients
+Meta Mapping (888):
+   694   C0205453:Seven [Quantitative Concept]
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: tumor       recurrences
+Meta Mapping (983):
+   983   C0521158:tumor recurrence (Recurrent tumor) [Neoplastic Process]
+
+Phrase: :
+
+Phrase: including
+Meta Mapping (1000):
+  1000   C0332257:Including (Including (qualifier)) [Functional Concept]
+
+Phrase: 6 within the first 12 months.
+Meta Mapping (725):
+   783   C0442752:6/12 (Distance vision 6/12) [Finding]
+   753   C1279901:First (Firstly) [Qualitative Concept]
+   753   C0439231:MONTHS (month) [Temporal Concept]
+Processing 24157031.ab.13: All of the patients who       experienced recurrences died at a median 4 months after that diagnosis. 
+
+Phrase: All of the patients
+Meta Mapping (770):
+   770   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: who
+
+Phrase: experienced
+Meta Mapping (966):
+   966   C0596545:Experience [Mental Process]
+
+Phrase: recurrences
+Meta Mapping (1000):
+  1000   C0034897:recurrences (Recurrence) [Phenomenon or Process]
+
+Phrase: died at a median 4 months
+Meta Mapping (666):
+   753   C1306577:Died (Death (finding)) [Finding]
+   753   C0876920:Median (Median Statistical Measurement) [Quantitative Concept]
+   753   C0439231:MONTHS (month) [Temporal Concept]
+
+Phrase: after
+
+Phrase: that diagnosis.
+Meta Mapping (1000):
+  1000   C1704656:DIAGNOSIS (Diagnosis Study) [Research Activity]
+Processing 24157031.ab.14: The       overall patient survival rates were 66.7% at 1 year and 60.0% at 3 and 5 years. 
+
+Phrase: The       overall patient survival rates
+Meta Mapping (905):
+   906   C0038954:overall survival rate (Survival Rate) [Quantitative Concept]
+   812   C0030705:*^patient (Patients) [Patient or Disabled Group]
+
+Phrase: were
+
+Phrase: 66.7% at 1 year
+Meta Mapping (804):
+   804   C0439508:/Year (per year) [Temporal Concept]
+
+Phrase: and
+
+Phrase: 60.0% at 3
+Meta Mapping (722):
+   770   C3842585:60% [Finding]
+   770   C3842591:0% [Finding]
+
+Phrase: and
+
+Phrase: 5 years.
+Meta Mapping (888):
+   694   C0439084:>5 [Quantitative Concept]
+   861   C0439234:YEARS (year) [Temporal Concept]
+Processing 24157031.ab.15: Disease-free patient survival rates were 60.0% at 1 year and 53.3% at 3 and 5       years. 
+
+Phrase: Disease-free patient survival rates
+Meta Mapping (868):
+   888   C0242793:Disease-Free Survival [Quantitative Concept]
+   804   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   771   C1521828:Rate [Quantitative Concept]
+
+Phrase: were
+
+Phrase: 60.0% at 1 year
+Meta Mapping (762):
+   637   C3842585:60% [Finding]
+   637   C3842591:0% [Finding]
+   804   C0439508:/Year (per year) [Temporal Concept]
+
+Phrase: and
+
+Phrase: 53.3% at 3
+
+Phrase: and
+
+Phrase: 5       years.
+Meta Mapping (888):
+   694   C0439084:>5 [Quantitative Concept]
+   861   C0439234:YEARS (year) [Temporal Concept]
+Processing 24157031.ab.16: CONCLUSIONS: Patients with combined HCC-CCC showed a high rate of early       recurrences, particularly within the first year.
+
+Phrase: CONCLUSIONS
+Meta Mapping (1000):
+  1000   C1707478:Conclusions (Conclusion) [Idea or Concept]
+
+Phrase: :
+
+Phrase: Patients with combined HCC-CCC
+Meta Mapping (763):
+   748   C0030705:Patients [Patient or Disabled Group]
+   581   C0205195:Combined [Qualitative Concept]
+   612   C2239176:HEPATOCELLULAR CARCINOMA (Liver carcinoma) [Neoplastic Process]
+   612   C0206698:Cholangiocellular Carcinoma (Cholangiocarcinoma) [Neoplastic Process]
+
+Phrase: showed
+Meta Mapping (966):
+   966   C1547282:Show [Animal]
+
+Phrase: a high rate of early       recurrences,
+Meta Mapping (766):
+   803   C1846661:High recurrence rate [Finding]
+   586   C1279919:Early [Temporal Concept]
+
+Phrase: particularly within the first year.
+Meta Mapping (695):
+   760   C1279901:First (Firstly) [Qualitative Concept]
+   760   C0439508:/Year (per year) [Temporal Concept]

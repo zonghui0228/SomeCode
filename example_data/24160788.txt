@@ -1,0 +1,498 @@
+Processing 24160788.ti.1: Polyp on ultrasound: now what? 
+
+Phrase: Polyp on ultrasound
+Meta Mapping (746):
+   790   C0032584:POLYP (polyps) [Anatomical Abnormality]
+   623   C1875843:ULTRASOUND (ultrasound device) [Medical Device]
+
+Phrase: :
+
+Phrase: now
+Meta Mapping (1000):
+  1000   C1948052:Now (Now (temporal qualifier)) [Temporal Concept]
+
+Phrase: what?
+Processing 24160788.ti.2: The association between gallbladder polyps and       cancer. 
+
+Phrase: The association between gallbladder polyps
+Meta Mapping (761):
+   760   C0699792:association (Relationship by association) [Social Behavior]
+   640   C0262493:gall bladder polyps (Polyp of gallbladder) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: cancer.
+Meta Mapping (1000):
+  1000   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+Processing 24160788.ab.1: The association between gallbladder polyps (GBP) and gallbladder cancer (GBC) is        unclear. 
+
+Phrase: The association between gallbladder polyps
+Meta Mapping (761):
+   760   C0699792:association (Relationship by association) [Social Behavior]
+   640   C0262493:gall bladder polyps (Polyp of gallbladder) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: gallbladder cancer
+Meta Mapping (1000):
+  1000   C0235782:Gallbladder Cancer (Gallbladder Carcinoma) [Neoplastic Process]
+Meta Mapping (1000):
+  1000   C0153452:Bladder Cancer, Gall (Malignant neoplasm of gallbladder) [Neoplastic Process]
+
+Phrase: is
+
+Phrase: unclear.
+Processing 24160788.ab.2: We sought to determine the association between preoperative diagnosis of       GBP on imaging and GBC. 
+
+Phrase: We
+
+Phrase: sought
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: determine
+
+Phrase: the association between preoperative diagnosis of       GBP
+Meta Mapping (786):
+   744   C0699792:association (Relationship by association) [Social Behavior]
+   604   C1318968:Preoperative diagnosis (Pre-op diagnosis) [Finding]
+   637   C0262493:Polyp of the Gallbladder (Polyp of gallbladder) [Neoplastic Process]
+
+Phrase: on imaging
+Meta Mapping (1000):
+  1000   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+
+Phrase: and
+
+Phrase: GBC.
+Meta Mapping (1000):
+  1000   C0235782:Gallbladder Cancer (Gallbladder Carcinoma) [Neoplastic Process]
+Meta Mapping (1000):
+  1000   C0153452:Bladder Cancer, Gall (Malignant neoplasm of gallbladder) [Neoplastic Process]
+Processing 24160788.ab.3: A retrospective review of patients over 9 years was       conducted using International Classification of Diseases, 9th Revision codes for        GBP and GBC who underwent cholecystectomy at our institution. 
+
+Phrase: A retrospective review of patients
+Meta Mapping (734):
+   593   C0035363:retrospective (Retrospective Studies) [Research Activity]
+   781   C0451610:patient review (Patient reviewed) [Therapeutic or Preventive Procedure]
+
+Phrase: over 9 years
+Meta Mapping (861):
+   861   C0439234:YEARS (year) [Temporal Concept]
+
+Phrase: was
+
+Phrase: conducted
+Meta Mapping (966):
+   966   C0004927:Conduct (Behavior) [Individual Behavior]
+
+Phrase: using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: International Classification of Diseases,
+Meta Mapping (1000):
+  1000   C0870733:International Classification of Diseases [Intellectual Product]
+
+Phrase: 9th Revision
+Meta Mapping (861):
+   861   C1527075:Revision (Revision procedure) [Therapeutic or Preventive Procedure]
+
+Phrase: codes for        GBP
+Meta Mapping (798):
+   770   C0805701:CODE (Code) [Intellectual Product]
+   833   C0262493:gall bladder polyps (Polyp of gallbladder) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: GBC
+Meta Mapping (1000):
+  1000   C0235782:Gallbladder Cancer (Gallbladder Carcinoma) [Neoplastic Process]
+Meta Mapping (1000):
+  1000   C0153452:Bladder Cancer, Gall (Malignant neoplasm of gallbladder) [Neoplastic Process]
+
+Phrase: who
+
+Phrase: underwent
+
+Phrase: cholecystectomy at our institution.
+Meta Mapping (708):
+   770   C0008320:CHOLECYSTECTOMY (Cholecystectomy procedure) [Therapeutic or Preventive Procedure]
+   604   C0018704:Institution (Health care facility) [Health Care Related Organization,Manufactured Object]
+Processing 24160788.ab.4: Demographics,       imaging findings, and pathology results were recorded. 
+
+Phrase: Demographics,
+Meta Mapping (1000):
+  1000   C1704791:Demographics (Demographics Domain) [Idea or Concept]
+
+Phrase: imaging
+Meta Mapping (1000):
+  1000   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+
+Phrase: findings,
+Meta Mapping (1000):
+  1000   C2926606:Findings (Procedure findings:Finding:Point in time:^Patient:Narrative) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: pathology results
+Meta Mapping (872):
+   694   C0205469:pathology (Pathological aspects) [Functional Concept]
+   827   C2825142:Result (Experimental Result) [Finding]
+
+Phrase: were
+
+Phrase: recorded.
+Meta Mapping (966):
+   966   C0034869:Record (Records) [Intellectual Product]
+Processing 24160788.ab.5: A total of 2416 patients       underwent cholecystectomy during the study period. 
+
+Phrase: A total of 2416 patients
+Meta Mapping (686):
+   760   C0439810:Total [Qualitative Concept]
+   593   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: underwent
+
+Phrase: cholecystectomy during the study period.
+Meta Mapping (696):
+   760   C0008320:CHOLECYSTECTOMY (Cholecystectomy procedure) [Therapeutic or Preventive Procedure]
+   593   C2603343:Study [Research Activity]
+   593   C0439531:/period (per period (qualifier value)) [Temporal Concept]
+Processing 24160788.ab.6: Twenty-seven had an operation        for GBP either as a result of concern for size or symptoms. 
+
+Phrase: Twenty-seven
+Meta Mapping (888):
+   861   C0724000:twenty (Twenties) [Age Group]
+   861   C0205453:Seven [Quantitative Concept]
+
+Phrase: had
+
+Phrase: an operation        for GBP either
+Meta Mapping (733):
+   586   C0002838:AN (Andorra) [Geographic Area]
+   753   C0543467:Operation (Operative Surgical Procedures) [Health Care Activity]
+   623   C0262493:gall bladder polyps (Polyp of gallbladder) [Neoplastic Process]
+
+Phrase: as a result of concern
+Meta Mapping (687):
+   593   C0004340:AS (Australia) [Geographic Area]
+   760   C2825142:Result (Experimental Result) [Finding]
+   593   C2699424:Concern [Idea or Concept]
+
+Phrase: for size
+Meta Mapping (1000):
+  1000   C0456389:Size (size) [Spatial Concept]
+
+Phrase: or
+
+Phrase: symptoms.
+Meta Mapping (1000):
+  1000   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Processing 24160788.ab.7: Polyp sizes were       categorized as less than 1 cm, 1 to 2 cm, or 2 cm or greater. 
+
+Phrase: Polyp sizes
+Meta Mapping (983):
+   983   C1299212:Polyp size [Clinical Attribute]
+
+Phrase: were
+
+Phrase: categorized as less
+Meta Mapping (790):
+   790   C0871968:categorized (categorizing) [Activity]
+
+Phrase: than 1 cm,
+Meta Mapping (694):
+   694   C2827734:1+ (1+ Score) [Quantitative Concept]
+
+Phrase: 1 to 2 cm,
+Meta Mapping (819):
+   819   C1519043:1-2 (Phase I/II Trial) [Research Activity]
+
+Phrase: or
+
+Phrase: 2 cm
+Meta Mapping (694):
+   694   C0740116:+2 [Quantitative Concept]
+
+Phrase: or
+
+Phrase: greater.
+Meta Mapping (1000):
+  1000   C1704243:Greater [Quantitative Concept]
+Processing 24160788.ab.8: Twenty-four       patients in this group (88.9%) had no evidence of high-grade dysplasia or cancer        and all of these benign polyps were 2 cm or less on imaging. 
+
+Phrase: Twenty-four       patients in this group
+Meta Mapping (725):
+   623   C3715070:Twenty Four [Quantitative Concept]
+   753   C0030705:Patients [Patient or Disabled Group]
+   586   C0441833:Group (Groups) [Idea or Concept]
+
+Phrase: (88.9%
+
+Phrase: )
+
+Phrase: had
+
+Phrase: no evidence of high-grade dysplasia
+Meta Mapping (888):
+   833   C0332125:No evidence of [Qualitative Concept]
+   666   C0334048:High grade dysplasia (Severe dysplasia) [Cell or Molecular Dysfunction]
+
+Phrase: or
+
+Phrase: cancer
+Meta Mapping (1000):
+  1000   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: all of these benign polyps
+Meta Mapping (745):
+   760   C0444868:ALL (All) [Quantitative Concept]
+   806   C0747742:benign polyps (polyp benign) [Disease or Syndrome]
+
+Phrase: were
+
+Phrase: 2 cm
+Meta Mapping (694):
+   694   C0740116:+2 [Quantitative Concept]
+
+Phrase: or
+
+Phrase: less on imaging.
+Meta Mapping (746):
+   790   C0439092:Less (Less Than) [Quantitative Concept]
+   790   C0011923:Imaging (Diagnostic Imaging) [Diagnostic Procedure]
+Processing 24160788.ab.9: One patient with a       2.4-cm polyp had high-grade dysplasia, and two patients with polyps over 3 cm had       adenocarcinoma. 
+
+Phrase: One patient with a       2.4-cm polyp
+Meta Mapping (645):
+   578   C0205447:ONE (One) [Quantitative Concept]
+   744   C0030705:*^patient (Patients) [Patient or Disabled Group]
+   578   C0032584:POLYP (polyps) [Anatomical Abnormality]
+
+Phrase: had
+
+Phrase: high-grade dysplasia,
+Meta Mapping (1000):
+  1000   C0334048:High grade dysplasia (Severe dysplasia) [Cell or Molecular Dysfunction]
+
+Phrase: and
+
+Phrase: two patients with polyps
+Meta Mapping (733):
+   604   C0205448:Two [Quantitative Concept]
+   770   C0030705:Patients [Patient or Disabled Group]
+   604   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: over 3 cm
+Meta Mapping (694):
+   694   C2827736:3+ (3+ Score) [Quantitative Concept]
+
+Phrase: had
+
+Phrase: adenocarcinoma.
+Meta Mapping (1000):
+  1000   C0001418:ADENOCARCINOMA (Adenocarcinoma) [Neoplastic Process]
+Processing 24160788.ab.10: During the same period, 20 patients had an operation for GBC with       two patients common to the polyp group. 
+
+Phrase: During the same period,
+Meta Mapping (888):
+   694   C0445247:SAME (Same) [Qualitative Concept]
+   861   C0439531:/period (per period (qualifier value)) [Temporal Concept]
+
+Phrase: 20 patients
+Meta Mapping (888):
+   694   C3842589:20% [Finding]
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: had
+
+Phrase: an operation for GBC
+Meta Mapping (766):
+   593   C0002838:AN (Andorra) [Geographic Area]
+   760   C0543467:Operation (Operative Surgical Procedures) [Health Care Activity]
+   640   C0235782:Gallbladder Cancer (Gallbladder Carcinoma) [Neoplastic Process]
+Meta Mapping (766):
+   593   C0002838:AN (Andorra) [Geographic Area]
+   760   C0543467:Operation (Operative Surgical Procedures) [Health Care Activity]
+   640   C0153452:Bladder Cancer, Gall (Malignant neoplasm of gallbladder) [Neoplastic Process]
+
+Phrase: with       two patients
+Meta Mapping (888):
+   694   C0205448:Two [Quantitative Concept]
+   861   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: common to the polyp group.
+Meta Mapping (696):
+   760   C1522138:Common (shared attribute) [Functional Concept]
+   593   C0032584:POLYP (polyps) [Anatomical Abnormality]
+   593   C0441833:Group (Groups) [Idea or Concept]
+Processing 24160788.ab.11: The group of patients with noncancerous       polyps was significantly younger than the cancer group (polyps and no polyps). 
+
+Phrase: The group of patients
+Meta Mapping (708):
+   770   C0441833:Group (Groups) [Idea or Concept]
+   604   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: with noncancerous       polyps
+Meta Mapping (861):
+   861   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: was
+
+Phrase: significantly younger than the cancer group
+Meta Mapping (661):
+   719   C0332239:Young [Temporal Concept]
+   586   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+   586   C0441833:Group (Groups) [Idea or Concept]
+
+Phrase: (polyps
+Meta Mapping (1000):
+  1000   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: and
+
+Phrase: no polyps
+Meta Mapping (1000):
+  1000   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: ).
+Processing 24160788.ab.12: The cancer group was more likely to be symptomatic. 
+
+Phrase: The cancer group
+Meta Mapping (888):
+   694   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+   861   C0441833:Group (Groups) [Idea or Concept]
+
+Phrase: was
+
+Phrase: more likely
+Meta Mapping (888):
+   861   C0205172:More [Functional Concept]
+   861   C0750492:Likely (Probably) [Idea or Concept]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+
+Phrase: be
+
+Phrase: symptomatic.
+Meta Mapping (1000):
+  1000   C0231220:Symptomatic [Functional Concept]
+Processing 24160788.ab.13: Therefore, polyps over 2 cm       should be removed given the risk of high-grade dysplasia and cancer above this       size. 
+
+Phrase: Therefore,
+
+Phrase: polyps over 2 cm
+Meta Mapping (770):
+   770   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: should
+
+Phrase: be
+
+Phrase: removed
+Meta Mapping (1000):
+  1000   C0849355:Removed [Qualitative Concept]
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Conceptual Entity]
+
+Phrase: the risk of high-grade dysplasia
+Meta Mapping (813):
+   820   C0332167:High risk of [Qualitative Concept]
+   586   C0441800:Grade [Classification]
+   586   C0334044:Dysplasia [Pathologic Function]
+
+Phrase: and
+
+Phrase: cancer above this       size.
+Meta Mapping (708):
+   770   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+   604   C0456389:Size (size) [Spatial Concept]
+Processing 24160788.ab.14: Polyps less than 2 cm were not associated with high-grade dysplasia or       cancer and thus surgery may not be required. 
+
+Phrase: Polyps less than 2 cm
+Meta Mapping (760):
+   760   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: were
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: associated with high-grade dysplasia
+Meta Mapping (893):
+   806   C0332281:Associated with [Qualitative Concept]
+   862   C0334048:High grade dysplasia (Severe dysplasia) [Cell or Molecular Dysfunction]
+
+Phrase: or
+
+Phrase: cancer
+Meta Mapping (1000):
+  1000   C1306459:Cancer (Primary malignant neoplasm) [Neoplastic Process]
+
+Phrase: and
+
+Phrase: thus surgery
+Meta Mapping (861):
+   861   C0543467:Surgery (Operative Surgical Procedures) [Health Care Activity]
+
+Phrase: may
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: be
+
+Phrase: required.
+Meta Mapping (1000):
+  1000   C1514873:Required (Requirement) [Functional Concept]
+Processing 24160788.ab.15: Intermediate- and small-sized polyps       can be monitored with serial ultrasound, especially in younger, asymptomatic       patients in whom the risk of malignancy is low.
+
+Phrase: Intermediate-
+Meta Mapping (1000):
+  1000   C2827755:INTERMEDIATE (Antimicrobial Intermediate Susceptibility Result) [Laboratory or Test Result]
+
+Phrase: and
+
+Phrase: small-sized polyps
+Meta Mapping (901):
+   734   C0748864:small sized (small size) [Finding]
+   827   C0032584:POLYPS (polyps) [Anatomical Abnormality]
+
+Phrase: can
+
+Phrase: be
+
+Phrase: monitored with serial ultrasound,
+Meta Mapping (722):
+   737   C0150369:monitor (Preventive monitoring) [Health Care Activity]
+   770   C0031082:serial (Periodicals) [Intellectual Product]
+   770   C1875843:ULTRASOUND (ultrasound device) [Medical Device]
+
+Phrase: especially in younger, asymptomatic       patients
+Meta Mapping (702):
+   726   C0332239:Young [Temporal Concept]
+   760   C0231221:Asymptomatic [Finding]
+   760   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: in whom
+
+Phrase: the risk of malignancy
+Meta Mapping (819):
+   819   C0596244:Malignancy risk (cancer risk) [Quantitative Concept]
+
+Phrase: is
+
+Phrase: low.
+Meta Mapping (1000):
+  1000   C1550472:low (low confidentiality) [Intellectual Product]

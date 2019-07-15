@@ -1,5 +1,5 @@
 # MetaMap-ResultParser
-A script to process MetaMap results
+A script to process MetaMap results.
 
 #### related website
 * [UMLS](https://www.nlm.nih.gov/research/umls/), Unified Medical Language System
